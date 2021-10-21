@@ -1,0 +1,28 @@
+#rides {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-around;
+  height: 110vh;
+}
+
+img {
+  height: 15em;
+}
+
+.card {
+  width: 23%;
+}
+
+.jumbotron {
+  text-align:center;
+}
+
+.btn {
+  border: 1px solid black;
+  margin-top: 1em;
+}
+
+.card {
+  display: none;
+}
